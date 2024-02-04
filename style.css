@@ -1,0 +1,46 @@
+
+
+.navCenter{
+    margin: auto;
+}
+.navCenter{
+    font-size: large;
+}
+.home{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgba(255, 81, 81, 1) ;
+}
+
+.btnTC{
+    display: block;
+    
+}
+
+.productCard>.card{
+    border-radius: 20px !important;
+}
+.card-text{
+    font-size: 0 !important;
+}
+.card-title{
+    font-size: 18px;
+}
+
+.productimg{
+    background-image:  linear-gradient(180deg, rgba(252, 203, 144, 0.44) 0%, rgba(255, 154, 158, 0.38) 100%);
+
+}
+
+.btnPrice{
+    color: #fff;
+    background-color: rgba(255, 94, 58, 1) ;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 15px;
+}
+
+.footer{
+    background-color: rgba(252, 203, 144, 0.15);
+    margin-bottom: 0px !important;
+}
